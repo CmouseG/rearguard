@@ -87,7 +87,7 @@
     "@types/chai": "4.1.2",
     "@types/clean-webpack-plugin": "0.1.2",
     "@types/del": "3.0.0",
-    "@types/extract-text-webpack-plugin": "3.0.2",
+    "@types/extract-text-webpack-plugin": "3.0.3",
     "@types/glob": "5.0.35",
     "@types/html-webpack-plugin": "2.30.3",
     "@types/joi": "13.0.6",
