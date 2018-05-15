@@ -93,7 +93,7 @@
     "@types/joi": "13.0.6",
     "@types/mkdirp": "0.5.2",
     "@types/mocha": "2.2.48",
-    "@types/node": "9.4.7",
+    "@types/node": "10.1.0",
     "@types/tapable": "1.0.0",
     "@types/webpack": "4.1.1",
     "@types/webpack-bundle-analyzer": "2.9.2",
